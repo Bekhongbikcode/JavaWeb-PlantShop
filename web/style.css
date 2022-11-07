@@ -1,0 +1,78 @@
+body{
+    background-image: url(img/deco.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+._login {
+    margin-top: 50px;
+    border-radius: 10px;
+    background-color: white;
+    width: 300px;
+    position: relative;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 5px 5px 100px 5px;
+    text-align: center;
+}
+
+p {
+    color: rgb(13, 13, 54);
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+._font01 {
+    color: rgb(13, 13, 54);
+    font-weight: bold;
+    padding-left: 0;
+    margin: 0;
+    margin-right: 125px;
+}
+
+._font02 {
+    color: rgb(13, 13, 54);
+    font-weight: bold;
+    padding-left: 0;
+    margin: 0;
+    margin-right: 100px;
+}
+
+.buttton_here input{
+    text-decoration: none;
+    border-radius: 7px;
+    background-color: rgb(41, 41, 112);
+    color: white;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+._registrate{
+    margin-top: 50px;
+    border-radius: 10px;
+    background-color: white;
+    width: 300px;
+    position: relative;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 5px 5px 100px 5px;
+    text-align: center;
+}
+
+.input_submit input{
+    text-decoration: none;
+    border-radius: 7px;
+    background-color: rgb(41, 41, 112);
+    color: white;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: medium;
+    font-weight: bold;
+}
